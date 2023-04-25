@@ -12,4 +12,4 @@ You need a development environment when building out an application, your laptop
 
 Lets assume that we are building our app on our laptop as our ` Dev Environment` using python as our programming language of choice, once we are doing building it has to be hosted on our `local host 8080`, where it is accessable to the public but once we shortdown our laptop the app cant be reachable, so we need to host our app on a system that is never turnd off, so what do we do we get a dedicated server for that and that where your production environment comes in.
 
-*<ins>Production Environment
+*<ins>Production Environment</ins>
